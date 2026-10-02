@@ -2,7 +2,7 @@
 
 Junior Full Stack Developer a Roma. Il frontend è la parte che mi piace di più: React, TypeScript e Vue.js, con Node.js lato server.
 
-Mi sono formato con il Master Full Stack di Boolean, poi ho aggiunto il Master in Data Analytics e oggi studio Ingegneria Informatica a Uninettuno. Prima del codice ho fatto quasi dieci anni il tutor di matematica e fisica: mi è rimasto il metodo, e l'abitudine a spiegare le cose in modo chiaro.
+Mi sono formato con il Master Full Stack di Boolean, poi ho aggiunto il Master in Data Analytics e oggi studio Ingegneria Informatica a Uninettuno. Prima del codice ho fatto il tutor di matematica e fisica: mi è rimasto il metodo, e l'abitudine a spiegare le cose in modo chiaro.
 
 ### Su cosa lavoro
 
